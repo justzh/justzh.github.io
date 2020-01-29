@@ -1,4 +1,4 @@
-# [Justin Zhang](https://justzh.github.io)
+[Justin Zhang](https://justzh.github.io)
 
 Student at The University of Texas at Austin (Dec 2020)
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Genesis 1:1"
 date: 2020-11-10 08:58:00 -0600
-categories: Bible God Genesis
+categories: Bible Genesis
 ---
 **<sup>1</sup>In the beginning God created the heavens and the earth.**
 

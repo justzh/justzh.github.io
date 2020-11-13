@@ -17,4 +17,33 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+
+  <style>
+    .pagination a, .pagination span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+    }
+
+    .pagination a {    
+        &:hover {
+            background-color: #f1f1f1;
+            color: #333;
+        }
+    }
+
+    .pagination {
+        text-align: center;
+        position:absolute;
+        width:300px;
+        height:200px;
+        bottom:0px;
+        right:25%;
+        left:50%;
+        margin-left:-150px;
+    }
+  </style>
 </head>

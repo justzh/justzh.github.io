@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-First and foremost, a follower of Jesus Christ.
+A follower of Jesus.
 
 Fourth-year computer science student at The University of Texas at Austin.
+
+Welcome to my blog!

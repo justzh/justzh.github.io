@@ -5,7 +5,7 @@ date: 2020-11-20 23:04:00 -0600
 categories: God Jesus School
 tags: ["God", "Jesus", "School", "Master", "Graduate", "Divinity"]
 ---
-This is my (unfinished) statement of purpose for my application to the Harvard Divinity School's Master of Divinity program:
+This is my (unfinished) statement of purpose for my application to the Harvard Divinity School's Master of Divinity program. Although this could really be for any divinity program exclude the part about John Harvard.
 
 # Statement of Purpose
 

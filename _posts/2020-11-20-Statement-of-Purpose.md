@@ -5,12 +5,13 @@ date: 2020-11-20 23:04:00 -0600
 categories: God Jesus School
 tags: ["God", "Jesus", "School", "Master", "Graduate", "Divinity"]
 ---
-This is my (unfinished) statement of purpose for my application to the Harvard Divinity School's Master of Divinity program.
+This is my (unfinished) statement of purpose for my application to the Harvard Divinity School's Master of Divinity program:
 
 # Statement of Purpose
+
 Thanks be to God, who has placed me in a position to be able to apply to a school of academic excellence, of ministry, of following our Lord Jesus Christ.
 
-My purpose is follow Jesus Christ, to be his disciple, his minister, his prophet, his apostle. We often lose sight of why we pursue the things we do. For me, it ultimately comes back to serving our LORD, to spread the Gospel, and the saving of others through Him.
+My purpose is to follow Jesus Christ, to be his disciple, his minister, his prophet, his apostle. We often lose sight of why we pursue the things we do. For me, it ultimately comes back to serving our LORD, to spread the Gospel, and the saving of others through Him.
 
 Through faith, we produce our works. Faith is what we have when we are unsure of what comes next, yet we are confident in God, in his plan.
 

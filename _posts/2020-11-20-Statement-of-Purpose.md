@@ -5,7 +5,7 @@ date: 2020-11-20 23:04:00 -0600
 categories: God Jesus School
 tags: ["God", "Jesus", "School", "Master", "Graduate", "Divinity"]
 ---
-This is my (unfinished) statement of purpose for my application to the Harvard Divinity School's Master of Divinity program. Although this could really be for any divinity program exclude the part about John Harvard.
+This is my (unfinished) statement of purpose for my application to the Harvard Divinity School's Master of Divinity program. Although this could really be for any divinity program.
 
 # Statement of Purpose
 
@@ -25,7 +25,7 @@ As a Christian, I place my faith in him, that he can help us to live a life with
 
 Through my faith, I add virtue. To my virtue, I add knowledge. I ask God to grant me wisdom, and he freely gives it.
 
-There is prestige in the name Harvard; I do admit that some part of me is tempted by this prestige, yet I believe that the name of Harvard should not (albeit obviously) precede the name of Jesus. We are sons and daughters of God. We represent him and his kingdom. The name Harvard serves as an indicator of academic excellence, yet Harvard himself was a clergyman, dedicated to the ministry of our Lord Jesus Christ.
+We are sons and daughters of God. We represent him and his kingdom.
 
 I believe that, though at a university, we should remind ourselves what we are studying for. Let us not be bogged down by academic busywork and the like. We study to expand our knowledge and wisdom so that we may impart it to others. The world needs faith. The world needs hope. We study so that we can be better ministers of Christ.
 

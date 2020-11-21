@@ -23,7 +23,7 @@ From the beginning, the people of Israel, God’s chosen people, time and time a
 
 As a Christian, I place my faith in him, that he can help us to live a life without sin as well, that we may accept any and all trials and tribulations, that we may deny our own desires, that we may accept our deaths, and follow Him.
 
-Through my faith, I add virtue. To my virtue, I add knowledge. I ask God to grant me wisdom, and he freely gives it.
+To my faith, I add virtue. To my virtue, I add knowledge. I ask God to grant me wisdom, and he freely gives it.
 
 We are sons and daughters of God. We represent him and his kingdom.
 

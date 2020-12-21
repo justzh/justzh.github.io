@@ -1,5 +1,5 @@
 # justzh.github.io
-This is the GitHub repository of my personal website.
+This is the repository of my personal website.
 
 ## Resources
 https://ptc-it.de/add-favicon-to-mm-jekyll-site/

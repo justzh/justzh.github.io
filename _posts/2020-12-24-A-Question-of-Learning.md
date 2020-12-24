@@ -18,7 +18,7 @@ We rely on these patterns for two main reasons:
     1. Efficiency
     2. Comfort
 
-As human beings, we want to be able to experience life to its fullest, but, initially, we believe that we are constrained by one major factor: time. We believe that we have a limited amount of time (disregarding Jesus and his promise). Thus, we want to be able to do things as fast as possible, rather as efficiently as possible.
+As human beings, we want to be able to experience life to its fullest, but, initially, we believe that we are constrained by one major factor: time. We believe that we have a limited amount of time (ignoring Jesus and his promise). Thus, we want to be able to do things as fast as possible, or rather, as efficiently as possible.
 
 However, as human beings, we also are able to feel pain, and generally, we wish to avoid pain. Thus, the desire for comfort plays a role in our decision-making and how we go about our lives. No one wants to be uncomfortable. (But sometimes the best things happen outside of our comfort zone).
 

@@ -7,7 +7,7 @@ How does one learn? Here are some of my thoughts on the matter.
 
 As babies, the entire world is unknown to us. We try to make sense of the world by identifying patterns, learning by trial-and-error, and learning from examples. To relate this to computer science, these techniques can be analogized to techniques in machine learning. Does that mean we are machines? Not exactly, but I digress.
 
-Past early infancy, we mainly rely on our parents and other adults to learn more about how the world works. If one is privileged enough, education becomes the mainstay for intellectual growth.
+Past early infancy, we mainly rely on our parents and our teachers to learn more about how the world works. If one is privileged enough, education becomes the mainstay for intellectual growth.
 
 Much of my own experience is through the American public education system; however, extracurricular activities involving sports, music lessons, and vacations lend much to be learned from.
 

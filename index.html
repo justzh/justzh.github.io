@@ -5,12 +5,6 @@
 layout: home
 ---
 
-<h1>
-<a class="post-link" href="https://www.justinzhang.info/welcome.html">
-Welcome
-</a>
-</h1>
-
 <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
@@ -25,6 +19,12 @@ Welcome
     	{%- if site.show_excerpts -%}
     	{{ post.excerpt }}
     	{%- endif -%}
+	{%- else -%}
+		<h3>
+			<a class="post-link" href="https://www.justinzhang.info/welcome.html">
+		Welcome
+		</a>
+		</h3>
 	{%- endif -%}
 {% endfor %}
 

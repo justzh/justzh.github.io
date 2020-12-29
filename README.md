@@ -9,3 +9,5 @@ https://blog.webjeda.com/instant-jekyll-search/
 https://blog.webjeda.com/jekyll-pagination/
 
 https://jekyllrb.com/docs/pagination/
+
+https://github.com/KaTeX/KaTeX

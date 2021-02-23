@@ -5,7 +5,7 @@ layout: post
 
 Welcome to my blog! Here you can read what I write and also learn more [about](https://www.justinzhang.info/about/) who I am.
 
-I have my [resume](https://drive.google.com/file/d/1QR2DGT-C1VI2OWdVy2ZcmVw8NbL-FESV/view?usp=sharing) updated to its latest version.
+I have my [resume](https://drive.google.com/file/d/1yoPZ0tuD1NO_6e7orN8bI6COBogOOr4p/view?usp=sharing) updated to its latest version.
 
 You can also [search](https://www.justinzhang.info/search/) through my posts.
 
